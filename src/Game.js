@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import Board from './Board'
-import winnderModal from "./WinnerModal"
 import WinnerModal from './WinnerModal';
 
 const initialBoard = ['', '', '', '', '', '', '', '', '']
